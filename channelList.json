@@ -1,0 +1,50 @@
+{ "channels":[
+	{
+	"name": "Radio Art Solo Piano",
+	"address": "http://live.radioart.com:80/fSolo_piano.mp3?dlid=",
+	"favourite": true,
+	"encoding": false
+},	{
+	"name": "Chroma Piano",
+	"address": "http://chromaradio.com:8032/",
+	"favourite": true,
+	"encoding": false
+},	{
+	"name": "Calm Radio - Solo Piano",
+	"address": "http://184.173.142.117:30228/stream",
+	"favourite": true,
+	"encoding": false
+},	{
+	"name": "Radio Caprice",
+	"address": "http://79.120.77.11:9009",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Sad Piano",
+	"address": "http://listen.radionomy.com:80/SadPianoMusicRadio",
+	"favourite": true,
+	"encoding": false
+},	{
+	"name": "Airless Radio - Piano",
+	"address": "http://66.85.88.2:7008",
+	"favourite": true,
+	"encoding": false
+},	{
+	"name": "Piano Station",
+	"address": "http://listen.radionomy.com/Pianostation",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Enlightened Piano Radio",
+	"address": "http://66.85.88.18:5196",
+	"favourite": false,
+	"encoding": false
+}
+],
+
+  "lastplayed":{
+	"name": "Piano Station",
+	"address": "http://listen.radionomy.com/Pianostation",
+	"encoding": false
+}
+}
