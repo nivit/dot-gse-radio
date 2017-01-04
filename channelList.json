@@ -44,6 +44,16 @@
 	"address": "http://81.169.166.170:8000",
 	"favourite": false,
 	"encoding": false
+},	{
+	"name": "Piano Music for Studying",
+	"address": "http://listen.shoutcast.com/pianomusicforstuding",
+	"favourite": false,
+	"encoding": false
+},	{
+	"name": "Pianorama",
+	"address": "http://listen.shoutcast.com/pianorama",
+	"favourite": false,
+	"encoding": false
 }
 ],
 
