@@ -39,6 +39,11 @@
 	"address": "http://66.85.88.18:5196",
 	"favourite": false,
 	"encoding": false
+},	{
+	"name": "Online Piano Practicing",
+	"address": "http://81.169.166.170:8000",
+	"favourite": false,
+	"encoding": false
 }
 ],
 
