@@ -1,0 +1,42 @@
+<Stations>
+  <Station>
+    <name>Radio Art - Solo piano</name>
+    <uri>http://live.radioart.com:80/fSolo_piano.mp3?dlid=</uri>
+  </Station>
+  <Station>
+  	<name>Chroma Piano</name>
+  	<uri>http://chromaradio.com:8032/</uri>
+  </Station>
+  <Station>
+  	<name>Calm Radio - Solo Piano</name>
+  	<uri>http://184.173.142.117:30228/stream</uri>
+  </Station>
+  <Station>
+  	<name>Radio Caprice</name>
+  	<uri>http://79.120.77.11:9009</uri>
+  </Station>
+  <Station>
+   	<name>Sad Piano</name>
+  	<uri>http://listen.radionomy.com:80/SadPianoMusicRadio</uri>
+  </Station>
+  <Station>
+  	<name>Airless Radio - Piano</name>
+  	<uri>http://66.85.88.2:7008</uri>
+  </Station>
+  <Station>
+  	<name>Piano Station</name>
+  	<uri>http://listen.radionomy.com/Pianostation</uri>
+  </Station>
+  <Station>
+  	<name>Enlightened Piano Radio</name>
+  	<uri>http://66.85.88.18:5196</uri>
+  </Station>
+  <Station>
+  	<name>Online Piano Practicing</name>
+  	<uri>http://81.169.166.170:8000</uri>
+  </Station>
+  <Station>
+  	<name>Piano Station</name>
+  	<uri>http://listen.radionomy.com/Pianostation</uri>
+  </Station>
+</Stations>
